@@ -8,5 +8,6 @@ BalenaEtcher:https://s.fnnas.net/s/bb59d12606074d1d89
 AnduinOS:https://s.fnnas.net/s/a4518710e44c49d18e
   
 -安装教程：
+https://www.bilibili.com/video/BV18DJizXEbd/?vd_source=6fda2572441be88741317636c9274c2b
 
 
